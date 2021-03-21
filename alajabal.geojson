@@ -1058,6 +1058,38 @@
           32.795355714148336
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "station_name": "Almarge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.836944580078125,
+          32.495284368469235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "station_name": "Sussa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.973342895507812,
+          32.895732015669815
+        ]
+      }
     }
   ]
 }
