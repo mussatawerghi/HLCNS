@@ -263,6 +263,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "station_name": "Sirt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5673828125,
+          31.090574094954192
+        ]
+      }
     }
   ]
 }
